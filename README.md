@@ -146,3 +146,7 @@ in-memory HTTP transport. Without that variable, integration tests are skipped.
 The optional browser check needs a working Chromium executable; it exercises the
 settings at a mobile viewport. Tests use fake provider responses and do not spend
 API credits. Real provider connectivity and billing require separate verification.
+
+## License
+
+Copyright (C) 2026 Pierre Marrec. Licensed under the GNU Affero General Public License v3.0 or later ([LICENSE](LICENSE)).
